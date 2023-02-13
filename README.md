@@ -1,11 +1,11 @@
 
-Names:
+Participants:
 
-Marc Pérez Pratdesaba
+Marc Pérez Pratdesaba: https://github.com/mperezpratdesaba
 
-Gael Ribes Victor
+Gael Ribes Victor: https://github.com/gaelribes
 
-Sergi Hernández Burbano de Lara
+Sergi Hernández Burbano de Lara: https://github.com/SergiHernandez
 
 
 # LSDS2021-lab1
